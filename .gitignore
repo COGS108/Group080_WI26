@@ -188,3 +188,9 @@ data/*.sq*
 data/*/*.sq*
 data/*.SQ*
 data/*/*.SQ*
+data/*.tsv*
+data/*/*.tsv*
+data/*.TSV*
+data/*/*.TSV*
+data/*.gz
+data/*/*.gz
